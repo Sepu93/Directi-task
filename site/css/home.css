@@ -505,4 +505,18 @@
 	{
     	float: left;
 	}
+	.download .sec-level-nav-container
+	{
+		border: 1p solid;
+		left: 0;
+	}
+	.sec-level-nav .sec-level-row
+	{
+		padding: 0;
+	}
+	.sec-level-nav-item li a
+	{
+		padding-left: 10px;
+		width: 100%;
+	}
 }
