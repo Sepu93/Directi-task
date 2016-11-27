@@ -53,5 +53,10 @@ src: url("../fonts/gillsansmt.ttf") format('truetype'),
 }
 @font-face{
 font-family: gillsansLight;
-src: url("../fonts/gillsans-light.ttf");
+src: url("../fonts/gillsans-light.ttf") format('truetype');
+}
+@font-face{
+font-family: Helvetica;
+src: url("../fonts/HelveticaKVAFont.ttf") format('truetype'),
+	 url("../fonts/HelveticaKVAFont.woff") format('woff');	
 }
