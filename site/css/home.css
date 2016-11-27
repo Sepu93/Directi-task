@@ -515,8 +515,9 @@
 	}
 	.download .sec-level-nav-container
 	{
-		border: 1p solid;
+		border: 1px solid;
 		left: 0;
+		min-width: 100%;
 	}
 	.sec-level-nav .sec-level-row
 	{
