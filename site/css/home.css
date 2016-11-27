@@ -505,6 +505,14 @@
 	{
     	float: left;
 	}
+	#more-btn
+	{
+		box-shadow: none;
+	}
+	#more-btn:hover
+	{
+		transform: none;
+	}
 	.download .sec-level-nav-container
 	{
 		border: 1p solid;
