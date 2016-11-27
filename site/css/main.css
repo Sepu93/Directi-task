@@ -48,9 +48,9 @@ table {
 /*fonts*/
 @font-face{
 font-family: gillsansRegular;
-src: url("fonts/gillsans.ttf");
+src: url("../fonts/gillsans.ttf");
 }
 @font-face{
 font-family: gillsansLight;
-src: url("fonts/gillsans-light.ttf");
+src: url("../fonts/gillsans-light.ttf");
 }
