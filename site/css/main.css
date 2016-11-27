@@ -48,7 +48,8 @@ table {
 /*fonts*/
 @font-face{
 font-family: gillsansRegular;
-src: url("https://sepu93.github.io/Directi-task/site/fonts/gillsans.ttf");
+src: url("../fonts/gillsansmt.ttf") format('truetype'),
+	 url("../fonts/gillsansmt.woff") format('woff');
 }
 @font-face{
 font-family: gillsansLight;
