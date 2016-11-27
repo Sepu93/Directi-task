@@ -290,6 +290,7 @@
 {
 	color: #333;
 	font-size: 32px;
+	font-family: gillsansRegular;
 	line-height: 40px;
     padding-bottom: 10px;
 }
@@ -303,6 +304,7 @@
 {
 	color: #303030;
 	font-size: 32px;
+	font-family: gillsansRegular;
 	position: relative;
 	text-align: center;
 	z-index: 1;
@@ -406,6 +408,7 @@
 {
 	color: #303030;
 	font-size: 32px;
+	font-family: gillsansRegular;
 	text-align: center;
 }
 .compatibility .os-nav
@@ -441,6 +444,7 @@
 {
 	color: #c4c3c3;
 	font-size: 18px;
+	font-family: gillsansLight;
 }
 #page-footer
 {
