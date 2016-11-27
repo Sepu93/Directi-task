@@ -59,6 +59,7 @@
 }
 #header-nav.navbar li a
 {
+	font-weight: bold;
 	text-decoration: none;
 }
 .main-sec
